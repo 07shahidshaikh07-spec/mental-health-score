@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8000";
+const API_URL = "https://mental-health-score-2-txbe.onrender.com";
 
 const form = document.getElementById("predictionForm");
 const result = document.getElementById("result");
